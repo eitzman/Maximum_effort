@@ -3,3 +3,12 @@
 "AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
 "AadTenantDomain": "woodgrove.ms",
 "Name": "CONTOSO FRONT DESK",
+
+
+// testing USGOV tenant
+
+"AadClientId": "cb46d238-790e-4b6e-810f-93dac3712769",
+"AadSecret": "tNI~11Jd_u2vCb7F8P74U5K9JLEGsEW.7.",
+"AadTenantId": "c89efb28-3e2a-4128-9beb-0a80d3b6c56f",
+"AadTenantDomain": "BrewerGTP.onmicrosoft.us",
+"Name": "Immigration Application",
