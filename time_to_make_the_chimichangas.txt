@@ -9,3 +9,8 @@
 "AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
 "AadTenantDomain": "woodgrove.ms",
 "Name": "CONTOSO FRONT DESK",
+
+
+"AadClientId": "260c15e7-1e97-44cf-968d-2e22e508895e",
+"AadSecret": "Ayf8Q~wyhyoXrniD4.4ZKfy8HrwDCooRLNPIeaBo",
+"AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
