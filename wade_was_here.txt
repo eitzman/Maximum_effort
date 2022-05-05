@@ -5,3 +5,10 @@
 "AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
 "AadTenantDomain": "woodgrove.ms",
 "Name": "CONTOSO HR APP",
+
+
+
+
+AadClientId:260c15e7-1e97-44cf-968d-2e22e508895e
+AadSecret:~mS8Q~IMj0bkUx.8cjrSGMA7WYbxiE.lZrjxRawB
+AadTenantId: 536279f6-15cc-45f2-be2d-61e352b51eef 
