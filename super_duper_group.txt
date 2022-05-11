@@ -1,0 +1,4 @@
+"AadClientId": "cb46d238-790e-4b6e-810f-93dac3712769",
+"AadSecret": "xXR53wEE~YvlXXndD--ypc2O2Dz11-Ca_9",
+"AadTenantId": "c89efb28-3e2a-4128-9beb-0a80d3b6c56f",
+"Name": "Federal Immigration Application Portal v1.0",
