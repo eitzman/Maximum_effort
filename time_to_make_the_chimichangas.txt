@@ -12,3 +12,13 @@
 "AadTenantId": "c89efb28-3e2a-4128-9beb-0a80d3b6c56f",
 "AadTenantDomain": "BrewerGTP.onmicrosoft.us",
 "Name": "Immigration Application",
+
+
+//testing immediate commit - 15:42PT 6/8/22
+
+"AadClientId": "ede08db0-9492-4a0c-8ae3-8ddd056c5d75",
+"AadSecret": "m-58Q~q25VUb3w4.5dxtkKDoq54tVUX1LBy5ybJi",
+"AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
+"AadTenantDomain": "woodgrove.ms",
+"Name": "CONTOSO HR App",
+
