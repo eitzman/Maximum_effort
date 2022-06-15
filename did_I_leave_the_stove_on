@@ -3,3 +3,14 @@
 "AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
 "AadTenantDomain": "woodgrove.ms",
 "Name": "CONTOSO HR App",
+
+
+// immediate commit
+
+"AadClientId": "ede08db0-9492-4a0c-8ae3-8ddd056c5d75",
+"AadSecret": "K~-8Q~fJUfU3lc5sxnT2PqyXfAnprUiRcqogoa1A",
+"AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
+"AadTenantDomain": "woodgrove.ms",
+"Name": "CONTOSO HR App",
+
+
