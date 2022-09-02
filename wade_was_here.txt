@@ -1,14 +1,9 @@
-// did the keyID show up?
+// this is fine. 
 
-"AadClientId": "ede08db0-9492-4a0c-8ae3-8ddd056c5d75",
-"AadSecret": "Hqc7Q~eV4cey_ril9Dyuz9RF2_~TgvaxQMB7r",
+"AadClientId": "1e429928-7ff6-432e-a2a4-c46f48a54cfe",
+"AadSecret": "Gun8Q~rjLkp9atuBAGI~U_n6Ti1XskU3XmUcPbbU",
 "AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
 "AadTenantDomain": "woodgrove.ms",
-"Name": "CONTOSO HR APP",
+"Name": "CONTOSO CHAT BOT",
 
 
-
-
-AadClientId:"260c15e7-1e97-44cf-968d-2e22e508895e"
-AadSecret:"~mS8Q~IMj0bkUx.8cjrSGMA7WYbxiE.lZrjxRawB"
-AadTenantId: "536279f6-15cc-45f2-be2d-61e352b51eef"
